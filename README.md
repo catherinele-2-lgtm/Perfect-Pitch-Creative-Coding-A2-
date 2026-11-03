@@ -55,8 +55,8 @@ No sensors, electronics or extra libraries are needed. You only need a computer 
 
 | Section | Scene time | Beats | Scene moment | Musical idea |
 | --- | --- | --- | --- | --- |
-| 1 | 0:00 to 0:24 | 48 | Lead-up to the ID | Slow drone, sparse melody |
-| 2 | 0:24 to 0:48 | 48 | Fogell reveals the ID | Heartbeat pulse, march rhythm |
+| 1 | 0:00 to 0:24 | 48 | ID | Slow drone, sparse melody |
+| 2 | 0:24 to 0:48 | 48 | Name is revealed on the ID | Heartbeat pulse, march rhythm |
 | 3 | 0:48 to 1:12 | 48 | Friends angry about the name | Faster rhythm, rising pitch |
 | 4 | 1:12 to 1:39 | 54 | The argument peaks | Snare roll, held notes, final hit |
 
